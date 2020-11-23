@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 ![ElliotXX's github stats](https://github-readme-stats-omega-six.vercel.app/api?username=elliotxx&show_icons=true&theme=radical)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotxx)](https://github.com/elliotxx/github-readme-stats)
+-->
