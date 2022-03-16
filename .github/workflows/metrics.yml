@@ -18,7 +18,7 @@ jobs:
           # Options
           user: elliotxx
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Asia/Shanghai
           
           # plugins
