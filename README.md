@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is elliotxx
 <!--
 **elliotxx/elliotxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <ul>
-  <li>🔭 I’m currently working on Alipay <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
-  <li>🌱 I’m currently learning and sharing in my <a href="http://yangyingming.com" target="_blank">blog</a></li>
+  <li>🔭 I’m currently working on AntGroup <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
+  <li>🌱 I’m currently learning IaC, GitOps, Kubernetes, and Platform Engineering.</li>
 </ul>
 
 
