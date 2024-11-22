@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <ul>
-  <li>🔭 I’m currently working on AntGroup <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
-  <li>🌱 I’m currently learning IaC, GitOps, Kubernetes, and Platform Engineering.</li>
+  <li>🔭 I’m currently working on AntGroup <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> and focus on the <a href="https://github.com/KusionStack/karpor">Karpor</a> and <a href="https://github.com/KusionStack">KusionStack</a> org.</li>
+  <li>🌱 I’m currently focusing on IaC, GitOps, Kubernetes and Platform Engineering.</li>
+  <li>📖 I’m currently learning NeoVim, NixOS.</li>
 </ul>
 
 
